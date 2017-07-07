@@ -29,6 +29,13 @@
 - [Node.js in Action](https://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572/ref=as_li_ss_tl?ie=UTF8&qid=1466640698&sr=8-1&keywords=node.js+in+action&linkCode=ll1&tag=eejs-20&linkId=57fbe05f198dad9e06df1c1f8fc29a4c) - Mike Cantelon
 - [Node.js the Right Way: Practical, Server-Side JavaScript That Scales](https://www.amazon.com/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734/ref=sr_1_1?s=books&ie=UTF8&qid=1499377952&sr=1-1&keywords=Node.js+the+Right+Way) - Jim Wilson
 
+
+## Contribution
+
+Suggestions and PRs are welcome!
+
+Please read the [contribution guidelines](./contributing.md) to get started.
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
