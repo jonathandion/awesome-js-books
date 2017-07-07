@@ -2,6 +2,16 @@
 
 > This is a curated list of all the best Javascript books. The list includes free and paid books. 
 
+#### Table of Contents
+
+* [General](#general)
+* [Browser](#browser)
+* [FP](#fp)
+* [Node.js](#nodejs)
+* [Contribution](#contribution)
+
+## General
+
 - 💰 🆓 [You Dont Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson.
 - 💰 🆓 [JavaScript Allongé](https://leanpub.com/javascriptallongesix) - Reginald Braithwaite
 - 💰 🆓 [Exploring ES6](http://exploringjs.com/es6/) - Dr. Axel Rauschmayer
