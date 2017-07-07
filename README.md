@@ -23,6 +23,9 @@
 
 - [Mostly Adequate Guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Brian Lonsdorf
 - [Functional Light JS](https://github.com/getify/functional-light-js) - Kyle Simpson
+- [Functional Programming in JavaScript](https://www.manning.com/books/functional-programming-in-javascript) - Luis Atencio
+- [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) - Michael Fogus
+
 
 ## Node.js
 
