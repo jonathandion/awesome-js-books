@@ -1,6 +1,7 @@
-# Awesome JS Books
+# Awesome JS Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> This is a curated list of all the best Javascript books. The list includes free and paid books.
+
+> This is a curated list of all the best Javascript books. The list includes free and paid books. 
 
 - [You Dont Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson.
 - [JavaScript Allongé](https://leanpub.com/javascriptallongesix) - Reginald Braithwaite
