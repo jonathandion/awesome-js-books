@@ -45,6 +45,9 @@
 
 <hr>
 
+## Furthermore
+- [JSbooks](https://github.com/revolunet/JSbooks) - JSbooks is a showcase of the bests free ebooks about Javascript.
+
 ### Contribution 
 Suggestions and PRs are welcome! 🤙
 
