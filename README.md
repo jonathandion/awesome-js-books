@@ -17,6 +17,7 @@
 - 💰 [JavaScript Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=as_li_ss_tl?ie=UTF8&redirect=true&linkCode=ll1&tag=eejs-20&linkId=afcaa6d74f1fbcc21a0c4d728b83dde1) - Douglas Crockford
 - 💰 [The Principles of Object-Oriented JavaScript](https://www.amazon.com/Principles-Object-Oriented-JavaScript-Nicholas-Zakas/dp/1593275404/ref=pd_sim_14_4?_encoding=UTF8&pd_rd_i=1593275404&pd_rd_r=J707VE8JE7WR9D0HPN4Q&pd_rd_w=xumBa&pd_rd_wg=uEZZm&psc=1&refRID=J707VE8JE7WR9D0HPN4Q) - Nicholas C. Zakas
 - 💰 🆓 [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - Maintained by Tim Ruffles
+- 💰 🆓 [Speaking JavaScript](http://speakingjs.com/es5/index.html) - Dr. Axel Rauschmayer
 
 ## Browser
 - 💰 [JavaScript: The Definitive Guide: Activate Your Web Pages](https://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527/ref=as_li_ss_tl?ie=UTF8&redirect=true&linkCode=ll1&tag=eejs-20&linkId=11a79cf9e89a54625cb3a8e8ff2dc8d5) - David Flanagan
